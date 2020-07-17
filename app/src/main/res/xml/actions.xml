@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actions>
+<action intentName="actions.intent.TURN_ON_PC">
+    <fulfillment urlTemplate="http://wol.com/">
+    </fulfillment>
+</action>
+</actions>
